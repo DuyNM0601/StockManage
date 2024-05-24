@@ -1,0 +1,14 @@
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\bin\Debug\net6.0\StockManageBussinessObject.deps.json
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\bin\Debug\net6.0\StockManageBussinessObject.runtimeconfig.json
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\bin\Debug\net6.0\StockManageBussinessObject.dll
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\bin\Debug\net6.0\StockManageBussinessObject.pdb
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\StockManageBussinessObject.csproj.AssemblyReference.cache
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\StockManageBussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\StockManageBussinessObject.AssemblyInfoInputs.cache
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\StockManageBussinessObject.AssemblyInfo.cs
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\StockManageBussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\StockManageBussinessObject.dll
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\refint\StockManageBussinessObject.dll
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\StockManageBussinessObject.pdb
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\StockManageBussinessObject.genruntimeconfig.cache
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageBussinessObject\obj\Debug\net6.0\ref\StockManageBussinessObject.dll

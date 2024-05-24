@@ -1,0 +1,17 @@
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\bin\Debug\net6.0\StockManageRepo.deps.json
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\bin\Debug\net6.0\StockManageRepo.dll
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\bin\Debug\net6.0\StockManageRepo.pdb
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\bin\Debug\net6.0\StockManageBussinessObject.dll
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\bin\Debug\net6.0\StockManageDAO.dll
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\bin\Debug\net6.0\StockManageDAO.pdb
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\bin\Debug\net6.0\StockManageBussinessObject.pdb
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\StockManageRepo.csproj.AssemblyReference.cache
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\StockManageRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\StockManageRepo.AssemblyInfoInputs.cache
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\StockManageRepo.AssemblyInfo.cs
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\StockManageRepo.csproj.CoreCompileInputs.cache
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\StockManageRepo.csproj.CopyComplete
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\StockManageRepo.dll
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\refint\StockManageRepo.dll
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\StockManageRepo.pdb
+C:\Users\manhd\OneDrive\Desktop\PRN231\StockManage\StockManageRepo\obj\Debug\net6.0\ref\StockManageRepo.dll
